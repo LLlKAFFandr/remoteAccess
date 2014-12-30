@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-test commit workerchanges
-=======
-test commit
->>>>>>> 1096013c6229ecf2ac88788170ac78b11dc470cf
